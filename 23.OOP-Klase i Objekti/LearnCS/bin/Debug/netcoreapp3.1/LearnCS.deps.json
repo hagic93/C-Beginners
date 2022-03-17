@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LearnCS/1.0.0": {
+        "dependencies": {
+          "DirectPrinter": "1.0.0"
+        },
+        "runtime": {
+          "LearnCS.dll": {}
+        }
+      },
+      "DirectPrinter/1.0.0": {
+        "runtime": {
+          "DirectPrinter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DirectPrinter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

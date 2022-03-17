@@ -1,0 +1,14 @@
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.exe
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.deps.json
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.json
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.dev.json
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.pdb
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.csproj.AssemblyReference.cache
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfoInputs.cache
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfo.cs
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.csproj.CoreCompileInputs.cache
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.pdb
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.genruntimeconfig.cache

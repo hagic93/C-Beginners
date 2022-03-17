@@ -1,0 +1,6 @@
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\bin\Debug\DirectPrinter.dll
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\bin\Debug\DirectPrinter.pdb
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\obj\Debug\DirectPrinter.csproj.AssemblyReference.cache
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\obj\Debug\DirectPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\obj\Debug\DirectPrinter.dll
+C:\Users\Infinity Mesh\Desktop\Moje stvari\C#\DirectPrinter\obj\Debug\DirectPrinter.pdb
